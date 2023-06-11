@@ -9,5 +9,4 @@ I'm Arie, an Electrical Engineering Bs.c student who works as a verification eng
 
 Skills: Python / SystemVerilog / UVM  /  Linux / Matlab 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ar)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArieRozental)  
