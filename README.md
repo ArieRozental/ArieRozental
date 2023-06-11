@@ -7,6 +7,6 @@ I'm Arie, an Electrical Engineering Bs.c student who works as a verification eng
 
 ![](https://arizerozental.github.io/github-profile-readme-generator/images/banner.png)
 
-Skills: Python / SystemVerilog / UVM  /  Linux / Matlab 
+Skills: 🐍 Python / 📝 SystemVerilog / 📁 UVM  / 💻 Linux / 📊 Matlab 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArieRozental)  
